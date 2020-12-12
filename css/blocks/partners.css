@@ -1,0 +1,21 @@
+.partners{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.partners__item{
+    margin-bottom: 26px;
+}
+
+.partners__link{
+    text-decoration: none;
+    display: flex;
+    width: 230px;
+    height: 100px;
+    align-items: center;
+    filter: grayscale(1);
+    transition: filter 0.3s;
+}
+.partners__link:hover{
+    filter: grayscale(0);
+}

@@ -1,0 +1,17 @@
+.page-content{
+    background-color: #FFF;
+    color: #303030;
+    padding: 58px 0px;
+}
+.page-container{
+    width: 1200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.page-title{
+    font-weight: bold;
+    font-size: 72px;
+    line-height: 98px;
+    margin-bottom: 29px;
+}
