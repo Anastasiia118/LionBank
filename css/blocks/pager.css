@@ -7,6 +7,9 @@
     color: #000;
     margin-bottom: 66px;
 }
+.pager-reviews{
+    margin-bottom: 29px;
+}
 .pager--theme--light .pager__item--active .pager__link{
     color: #fff;
     background:#353439;

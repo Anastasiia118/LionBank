@@ -6,6 +6,8 @@
 }
 .footer-container__content {
     border-top: 1px solid rgba(255, 255, 255, 0.1);
+    padding: 41px 0px;
+    
 }
 .footer {
     position: relative;
@@ -23,7 +25,4 @@
 
 .inner-footer__container{
     padding: 41px 0;
-}
-.inner-footer{
-    margin-top: auto;
 }

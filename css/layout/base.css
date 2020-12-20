@@ -58,7 +58,10 @@ table {
     border-collapse: collapse;
     border-spacing: 0;
 }
-
+.container {
+    margin: 0 auto;
+    width: 1141px;
+}
 .wrapper {
     overflow: hidden;
     min-width: 1200px;
@@ -73,9 +76,4 @@ table {
 
 .main-page-wrapper {
     background: url("../../img/backgrounds/background_top.png") center top no-repeat, url("../../img/backgrounds/background_bottom.png") right bottom 239px no-repeat;
-}
-
-.container {
-    margin: 0 auto;
-    width: 1140px;
 }
