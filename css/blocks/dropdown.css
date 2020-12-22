@@ -3,6 +3,7 @@
     display: flex;
     justify-content: flex-end; 
     cursor: pointer;
+    margin-left: auto;
 }
 .dropdown:hover .contacts__dropdown-title{
     color: #fff;
